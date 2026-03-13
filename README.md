@@ -26,7 +26,7 @@ A computer vision system designed to detect whether workers are wearing required
 🧰 Tech: Python, Computer Vision, Deep Learning, YOLO, OpenCV.
 📈 Goal: Improve workplace safety by automatically identifying safety compliance violations in real time.
 🔗 Demo: 
-
+---
 📊 Engineering Data Monitoring Dashboard
 
 A real-time dashboard that visualizes environmental and operational sensor data to help monitor industrial systems.
@@ -34,7 +34,7 @@ A real-time dashboard that visualizes environmental and operational sensor data 
 🧰 Tech: React, Python, REST API, Data Visualization
 📈 Goal: Transform raw sensor data into clear visual insights for faster decision-making in safety-critical environments.
 🔗 Demo: 
-
+---
 🌾 AI Agricultural Advisor
 
 An AI-powered assistant designed to help farmers analyze land conditions and weather data to improve crop decisions.
@@ -42,7 +42,7 @@ An AI-powered assistant designed to help farmers analyze land conditions and wea
 🧰 Tech: Python, AI Models, Weather API, LLMs
 📈 Goal: Provide intelligent recommendations for irrigation, crop selection, and climate adaptation.
 🔗 Demo: 
-
+---
 ☀️ Solar Power Estimator
 
 A tool that estimates solar energy production based on geographic location, weather conditions, and panel specifications.
@@ -50,7 +50,7 @@ A tool that estimates solar energy production based on geographic location, weat
 🧰 Tech: Python, React, Energy Modeling, Data Analysis
 📈 Goal: Help users evaluate the feasibility of solar installations and estimate potential energy generation.
 🔗 Demo: 
-
+---
 🤖 Physics Problem Solver Chatbot
 
 An AI-powered chatbot that helps students solve physics problems step by step and understand underlying concepts.
@@ -58,7 +58,7 @@ An AI-powered chatbot that helps students solve physics problems step by step an
 🧰 Tech: Python, LLMs, LangChain, Vector Databases
 📈 Goal: Assist students in learning physics through guided explanations and interactive problem solving.
 🔗 Demo: 
-
+---
 🌐 Personal Portfolio Website
 
 A modern responsive portfolio designed to showcase projects, research work, and technical skills.
