@@ -24,7 +24,7 @@ I love creating AI-driven solutions that connect innovation, design, and data to
 An intelligent chatbot that reduces common user queries by 30% by answering questions, summarizing text, and automating tasks using advanced NLP.
 🧰 Tech: Python, OpenAI API, Streamlit, LangChain
 📈 Goal: Build a versatile personal assistant that integrates with various APIs.
-🔗 Live Demo: # | Source Code: #
+🔗 Live Demo: 
 
 
 ---
@@ -34,7 +34,7 @@ An intelligent chatbot that reduces common user queries by 30% by answering ques
 A full-stack dashboard that visualizes and analyzes business datasets with 95% faster insight generation through live updates and interactive charts.
 🧰 Tech: React, Flask, Plotly, Pandas, REST API
 📈 Goal: Simplify complex data into clear visual insights.
-🔗 Live Demo: # | Source Code: #
+🔗 Live Demo:
 
 
 ---
@@ -44,7 +44,7 @@ A full-stack dashboard that visualizes and analyzes business datasets with 95% f
 A recommendation engine achieving 85% accuracy in predicting products based on user preferences using collaborative filtering and machine learning.
 🧰 Tech: Python, Scikit-learn, Pandas, Flask
 📈 Goal: Improve user engagement and product discovery with AI.
-🔗 Live Demo: # | Source Code: #
+🔗 Live Demo:
 
 
 ---
@@ -54,7 +54,7 @@ A recommendation engine achieving 85% accuracy in predicting products based on u
 A modern web app serving 10,000+ monthly users with accurate weather forecasts and AI-powered daily activity suggestions.
 🧰 Tech: JavaScript, React, OpenWeather API
 📈 Goal: Merge real-time weather data with user experience design.
-🔗 Live Demo: # | Source Code: #
+🔗 Live Demo: 
 
 
 ---
@@ -64,7 +64,7 @@ A modern web app serving 10,000+ monthly users with accurate weather forecasts a
 An AI app that analyzes and scores CVs with 92% accuracy, providing actionable suggestions to improve job application success rates.
 🧰 Tech: Python, NLP, Flask, OpenAI API
 📈 Goal: Help job seekers optimize their resumes with AI.
-🔗 Live Demo: # | Source Code: #
+🔗 Live Demo: 
 
 
 ---
