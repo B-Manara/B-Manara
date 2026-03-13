@@ -20,7 +20,7 @@ I love creating AI-driven solutions that connect innovation, design, and data to
 🚀 Projects
 
 👷 PPE Detection using Computer Vision
----
+-----
 A computer vision system designed to detect whether workers are wearing required Personal Protective Equipment (helmets, safety vests, etc.) in industrial environments.
 
 🧰 Tech: Python, Computer Vision, Deep Learning, YOLO, OpenCV.
@@ -28,7 +28,7 @@ A computer vision system designed to detect whether workers are wearing required
 🔗 Demo: 
 
 📊 Engineering Data Monitoring Dashboard
----
+-----
 A real-time dashboard that visualizes environmental and operational sensor data to help monitor industrial systems.
 
 🧰 Tech: React, Python, REST API, Data Visualization
@@ -36,7 +36,7 @@ A real-time dashboard that visualizes environmental and operational sensor data 
 🔗 Demo: 
 
 🌾 AI Agricultural Advisor
----
+-----
 An AI-powered assistant designed to help farmers analyze land conditions and weather data to improve crop decisions.
 
 🧰 Tech: Python, AI Models, Weather API, LLMs
@@ -44,7 +44,7 @@ An AI-powered assistant designed to help farmers analyze land conditions and wea
 🔗 Demo: 
 
 ☀️ Solar Power Estimator
----
+-----
 A tool that estimates solar energy production based on geographic location, weather conditions, and panel specifications.
 
 🧰 Tech: Python, React, Energy Modeling, Data Analysis
@@ -52,7 +52,7 @@ A tool that estimates solar energy production based on geographic location, weat
 🔗 Demo: 
 
 🤖 Physics Problem Solver Chatbot
----
+-----
 An AI-powered chatbot that helps students solve physics problems step by step and understand underlying concepts.
 
 🧰 Tech: Python, LLMs, LangChain, Vector Databases
@@ -60,7 +60,7 @@ An AI-powered chatbot that helps students solve physics problems step by step an
 🔗 Demo: 
 
 🌐 Personal Portfolio Website
-----
+-----
 A modern responsive portfolio designed to showcase projects, research work, and technical skills.
 
 🧰 Tech: React, Vite, JavaScript, UI from Figma
