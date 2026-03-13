@@ -65,7 +65,7 @@ A modern responsive portfolio designed to showcase projects, research work, and 
 
 🧰 Tech: React, Vite, JavaScript, UI from Figma
 📈 Goal: Create a professional online presence presenting engineering and AI projects.
-🔗 Demo: b-manar.vercel.app
+🔗 Demo: [View Portfolio](https://b-manar.vercel.app)
 
 ---
 
