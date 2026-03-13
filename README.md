@@ -5,7 +5,7 @@ I love creating AI-driven solutions that connect innovation, design, and data to
 
 ---
 
-🚀 About Me
+###🚀 About Me
 
 🤖 I specialize in Artificial Intelligence, Web Development, and Automation
 
@@ -17,7 +17,7 @@ I love creating AI-driven solutions that connect innovation, design, and data to
 
 ---
 
-🚀 Projects
+###🚀 Projects
 
 👷 PPE Detection using Computer Vision
 -----
@@ -69,7 +69,7 @@ A modern responsive portfolio designed to showcase projects, research work, and 
 
 ---
 
-🧰 Tech Stack
+###🧰 Tech Stack
 
 AI & Data Science:
 Python • TensorFlow • Scikit-learn • Pandas • NumPy • OpenAI API
@@ -83,13 +83,12 @@ Flask • REST API • Git • VS Code • Figma • Jupyter Notebook • Google
 
 ---
 
-🌱 Currently Exploring
+### 🌱 Currently Exploring
 
-Generative AI and LLMs
-
-Full-stack web apps (React + Flask)
-
-Automation tools with AI APIs
+• Generative AI, Large Language Models (LLMs), and AI Agents  
+• Building AI-powered applications with LangChain and vector databases  
+• Full-stack development (React, Flask, REST APIs)  
+• Automation and intelligent tools using AI APIs
 
 
 ---
