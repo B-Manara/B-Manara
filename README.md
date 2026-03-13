@@ -17,55 +17,55 @@ I love creating AI-driven solutions that connect innovation, design, and data to
 
 ---
 
-🔭 Featured Projects
+🚀 Projects
 
-💬 SmartChat AI Assistant
+👷 PPE Detection using Computer Vision
 
-An intelligent chatbot that reduces common user queries by 30% by answering questions, summarizing text, and automating tasks using advanced NLP.
-🧰 Tech: Python, OpenAI API, Streamlit, LangChain
-📈 Goal: Build a versatile personal assistant that integrates with various APIs.
-🔗 Live Demo: 
+A computer vision system designed to detect whether workers are wearing required Personal Protective Equipment (helmets, safety vests, etc.) in industrial environments.
 
+🧰 Tech: Python, Computer Vision, Deep Learning, YOLO, OpenCV.
+📈 Goal: Improve workplace safety by automatically identifying safety compliance violations in real time.
+🔗 Demo: 
 
----
+📊 Engineering Data Monitoring Dashboard
 
-📊 DataVision Dashboard
+A real-time dashboard that visualizes environmental and operational sensor data to help monitor industrial systems.
 
-A full-stack dashboard that visualizes and analyzes business datasets with 95% faster insight generation through live updates and interactive charts.
-🧰 Tech: React, Flask, Plotly, Pandas, REST API
-📈 Goal: Simplify complex data into clear visual insights.
-🔗 Live Demo:
+🧰 Tech: React, Python, REST API, Data Visualization
+📈 Goal: Transform raw sensor data into clear visual insights for faster decision-making in safety-critical environments.
+🔗 Demo: 
 
+🌾 AI Agricultural Advisor
 
----
+An AI-powered assistant designed to help farmers analyze land conditions and weather data to improve crop decisions.
 
-🛍️ AI Product Recommender
+🧰 Tech: Python, AI Models, Weather API, LLMs
+📈 Goal: Provide intelligent recommendations for irrigation, crop selection, and climate adaptation.
+🔗 Demo: 
 
-A recommendation engine achieving 85% accuracy in predicting products based on user preferences using collaborative filtering and machine learning.
-🧰 Tech: Python, Scikit-learn, Pandas, Flask
-📈 Goal: Improve user engagement and product discovery with AI.
-🔗 Live Demo:
+☀️ Solar Power Estimator
 
+A tool that estimates solar energy production based on geographic location, weather conditions, and panel specifications.
 
----
+🧰 Tech: Python, React, Energy Modeling, Data Analysis
+📈 Goal: Help users evaluate the feasibility of solar installations and estimate potential energy generation.
+🔗 Demo: 
 
-🌦️ WeatherWise
+🤖 Physics Problem Solver Chatbot
 
-A modern web app serving 10,000+ monthly users with accurate weather forecasts and AI-powered daily activity suggestions.
-🧰 Tech: JavaScript, React, OpenWeather API
-📈 Goal: Merge real-time weather data with user experience design.
-🔗 Live Demo: 
+An AI-powered chatbot that helps students solve physics problems step by step and understand underlying concepts.
 
+🧰 Tech: Python, LLMs, LangChain, Vector Databases
+📈 Goal: Assist students in learning physics through guided explanations and interactive problem solving.
+🔗 Demo: 
 
----
+🌐 Personal Portfolio Website
 
-🧠 AI Resume Analyzer
+A modern responsive portfolio designed to showcase projects, research work, and technical skills.
 
-An AI app that analyzes and scores CVs with 92% accuracy, providing actionable suggestions to improve job application success rates.
-🧰 Tech: Python, NLP, Flask, OpenAI API
-📈 Goal: Help job seekers optimize their resumes with AI.
-🔗 Live Demo: 
-
+🧰 Tech: React, Vite, JavaScript, UI from Figma
+📈 Goal: Create a professional online presence presenting engineering and AI projects.
+🔗 Demo: b-manar.vercel.app
 
 ---
 
