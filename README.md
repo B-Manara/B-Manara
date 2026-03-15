@@ -80,7 +80,6 @@ React • JavaScript • HTML5 • CSS3 • Streamlit
 Backend & Tools:
 Flask • REST API • Git • VS Code • Figma • Jupyter Notebook • Google Colab
 
-
 ---
 
 ### 🌱 Currently Exploring
